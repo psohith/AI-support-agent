@@ -47,7 +47,7 @@ Eywa-AI Support Agent provides:
 
 Eywa utilizes **RAG (Retrieval-Augmented Generation)** to enhance response accuracy and relevance. 
 
-![Eywa Architecture](readme_resources/Eywa_Architecture.png)  
+![Eywa Architecture](Eywa_Architecture.png)  
 
 ---
 
@@ -55,7 +55,7 @@ Eywa utilizes **RAG (Retrieval-Augmented Generation)** to enhance response accur
 
 The user-friendly UI ensures seamless interaction with the Eywa-AI Support Agent.  
 
-![Eywa AI Support Agent User Interface](readme_resources/Eywa_UI_Interface.png)  
+![Eywa AI Support Agent User Interface](Eywa_UI_Interface.png)  
 
 ---
 
